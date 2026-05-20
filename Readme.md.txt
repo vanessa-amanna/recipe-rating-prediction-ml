@@ -1,6 +1,6 @@
 #Recipe Rating Prediction using Machine Learning
 
-This project predicts food recipe ratings using machine learning models trained on text-based recipe data.
+This project was developed as part of an academic Kaggle competition focused on predicting food recipe ratings using machine learning techniques.
 
 ##Techniques used are as follows: -
 1. Exploratory Data Analysis
@@ -18,3 +18,6 @@ This project predicts food recipe ratings using machine learning models trained 
 
 ##Results: -
 Achieved approximately 77% validation accuracy using a Random Forest Classifier.
+
+##Dataset: -
+The dataset was provided through the Kaggle competition and is not included in this repository.
